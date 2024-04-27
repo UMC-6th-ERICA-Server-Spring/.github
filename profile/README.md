@@ -33,10 +33,20 @@ REFACTOR: 전면 수정(코드 리펙토링)
 <img width="1298" alt="스크린샷 2024-04-27 오후 6 01 05" src="https://github.com/UMC-6th-ERICA-Server-Spring/.github/assets/77945998/4a719428-0f68-42fd-982d-fcbb7f4e4a55">
 
 
-PR 타이틀은 다음과 같이 설정해주시면 됩니다.
+PR 타이틀과 내용은 다음과 같이 설정해주시면 됩니다.
 
 ```
 #주차_미션_닉네임
+----------------
+## Summary
+- 요약 
+
+## Describe your changes
+-내영
+
+## Checklist
+- [ ] 리뷰어 등록
+
 ```
 
 **Reviewers**에는 스터디원 전원(파트장 포함)을 설정 해주시면 되고, **Assignees** 에는 PR을 작성한 본인을 지정 하시면 됩니다.
